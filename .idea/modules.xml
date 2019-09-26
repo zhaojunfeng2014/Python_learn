@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://Z:/bin/batch_rvt_preprocess/.idea/batch_rvt_preprocess.iml" filepath="Z:/bin/batch_rvt_preprocess/.idea/batch_rvt_preprocess.iml" />
+      <module fileurl="file://Z:/bin/new_no_ss_data_process/.idea/new_no_ss_data_process.iml" filepath="Z:/bin/new_no_ss_data_process/.idea/new_no_ss_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+    </modules>
+  </component>
+</project>

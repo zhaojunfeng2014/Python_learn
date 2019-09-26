@@ -1,0 +1,13 @@
+[tcp]
+port = 8086
+ip = 0.0.0.0
+[server]
+workdir = /pcop
+mem_space = 4000000000
+record_count = 1000000
+[db]
+dbip = 49.4.7.14
+dbport = 5432
+dbname = gis
+dbuser = postgres
+dbpassword = 123456
